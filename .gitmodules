@@ -1,6 +1,6 @@
-[submodule "src/submodules/mymonero-libapp-cpp"]
-	path = src/submodules/mymonero-libapp-cpp
-	url = https://github.com/mymonero/mymonero-libapp-cpp
-[submodule "mymonero-core-js"]
-	path = mymonero-core-js
-	url = https://github.com/mymonero/mymonero-core-js
+[submodule "src/submodules/mytokl-libapp-cpp"]
+	path = src/submodules/mytokl-libapp-cpp
+	url = https://github.com/Toklio-project/mytokl-libapp-cpp.git
+[submodule "mytokl-core-js"]
+	path = mytokl-core-js
+	url = https://github.com/Toklio-project/mytokl-core-js.git
